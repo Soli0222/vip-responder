@@ -22,7 +22,7 @@ builds:
       - linux
       - windows
       - darwin
-    binary: exiforge
+    binary: vip-responder
 
 archives:
   - formats: [ 'tar.gz' ]
