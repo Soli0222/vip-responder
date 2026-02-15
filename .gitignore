@@ -39,3 +39,6 @@ vip-responder
 
 # Goreleaser
 /dist
+
+# mac
+.DS_Store
