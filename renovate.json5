@@ -19,6 +19,7 @@
   prCreation: 'immediate',
   rebaseWhen: 'auto',
   dependencyDashboard: true,
+  ignoreTests: true,
   vulnerabilityAlerts: {
     enabled: true,
     labels: [
