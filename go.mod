@@ -1,6 +1,6 @@
 module github.com/soli0222/vip-responder
 
-go 1.26.5
+go 1.26.6
 
 require (
 	github.com/mdlayher/arp v0.0.0-20220512170110-6706a2966875
