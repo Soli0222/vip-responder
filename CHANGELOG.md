@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/Soli0222/vip-responder/compare/v1.0.1...v1.0.2) (2026-10-16)
+
+
+### バグ修正・依存関係の更新
+
+* **ci:** restore Renovate status checks and surface errors ([#52](https://github.com/Soli0222/vip-responder/issues/52)) ([7e852a4](https://github.com/Soli0222/vip-responder/commit/7e852a4574f83ce7332279ba07d3ff510a5f2b2f))
+
 ## [1.0.1](https://github.com/Soli0222/vip-responder/compare/v1.0.0...v1.0.1) (2026-07-26)
 
 
